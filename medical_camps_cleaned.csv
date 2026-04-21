@@ -1,0 +1,21 @@
+camp_id,camp_name,location,organizer,camp_date
+CAMP01,Arogya Gram Seva Camp,"Satara, MH",State Health Dept,2025-01-05
+CAMP02,Swasth Bharat Abhiyan,"Nashik, MH",Apollo Trust,2025-01-12
+CAMP03,Rural Heart Care Camp,"Wardha, MH",Fortis Foundation,2025-01-18
+CAMP04,Women Wellness Camp,"Kolhapur, MH",NGO Sehat,2025-01-25
+CAMP05,Senior Citizen Health Camp,"Pune, MH",Municipal Corp,2025-02-02
+CAMP06,Diabetes Awareness Camp,"Mumbai, MH",Lions Club,2025-02-08
+CAMP07,Child Health Camp,"Nagpur, MH",Rotary Club,2025-02-14
+CAMP08,Heart & BP Camp,"Aurangabad, MH",Max Foundation,2025-02-20
+CAMP09,Bone Health Camp,"Nashik, MH",OrthoCare Trust,2025-02-25
+CAMP10,Free Eye Checkup Camp,"Satara, MH",Vision NGO,2025-03-01
+CAMP11,Cancer Screening Camp,"Thane, MH",Tata Trust,2025-03-05
+CAMP12,Mental Health Camp,"Mumbai, MH",MindCare NGO,2025-03-10
+CAMP13,Women & Child Care Camp,"Solapur, MH",UNICEF Partner,2025-03-15
+CAMP14,Orthopedic Checkup Camp,"Kolhapur, MH",Ortho India,2025-03-20
+CAMP15,Respiratory Health Camp,"Pune, MH",AIIMS Outreach,2025-03-25
+CAMP16,Free BP Check Camp,"Nagpur, MH",Red Cross,2025-03-30
+CAMP17,General Health Camp,"Wardha, MH",District Hospital,2025-04-05
+CAMP18,Heart Screening Camp,"Mumbai, MH",Fortis Outreach,2025-04-10
+CAMP19,Diabetic Care Camp,"Nashik, MH",Apollo CSR,2025-04-15
+CAMP20,Senior Wellness Camp,"Satara, MH",ElderCare NGO,2025-04-20
